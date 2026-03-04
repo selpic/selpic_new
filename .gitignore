@@ -1,0 +1,27 @@
+# 빌드 결과물
+bin/
+obj/
+
+# 임시 파일
+temp/
+
+# 광고 파일 (서버에서 동기화)
+adver/
+
+# 로그
+logs/
+*.log
+
+# 설정 파일 (기기별 다름)
+config.ini
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# macOS
+.DS_Store
+
+# 이전 프로그램 참고자료 (용량 큼)
+자료/

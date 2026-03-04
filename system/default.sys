@@ -1,0 +1,53 @@
+[Type_A]
+; 1920x1080 가로형 (A타입)
+Screen1_height  = 1080
+Guide_height    = 0
+Screen2_height  = 0
+QR_left         = 156
+QR_top          = 575
+QR_size         = 167
+Code_left       = 170
+Code_top        = 755
+Code_fontSize   = 60
+Code_color      = #333333
+Name_left       = 156
+Name_top        = 820
+Name_fontSize   = 24
+Name_color      = #FFFFFF
+Error_fontSize  = 25
+
+[Type_B]
+; 1024x1280 세로형 (B타입)
+Screen1_height  = 768
+Guide_height    = 512
+Screen2_height  = 0
+QR_left         = 792
+QR_top          = 30
+QR_size         = 167
+Code_left       = 810
+Code_top        = 210
+Code_fontSize   = 60
+Code_color      = #333333
+Name_left       = 780
+Name_top        = 280
+Name_fontSize   = 24
+Name_color      = #FFFFFF
+Error_fontSize  = 25
+
+[Type_C]
+; 1080x1920 세로형 (C타입)
+Screen1_height  = 810
+Guide_height    = 540
+Screen2_height  = 570
+QR_left         = 822
+QR_top          = 145
+QR_size         = 200
+Code_left       = 840
+Code_top        = 325
+Code_fontSize   = 72
+Code_color      = #333333
+Name_left       = 795
+Name_top        = 457
+Name_fontSize   = 30
+Name_color      = #FFFFFF
+Error_fontSize  = 28
