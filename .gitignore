@@ -23,5 +23,8 @@ config.ini
 # macOS
 .DS_Store
 
+# Claude
+.claude/
+
 # 이전 프로그램 참고자료 (용량 큼)
 자료/
